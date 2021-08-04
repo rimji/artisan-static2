@@ -4,12 +4,12 @@ return [
     'production' => false,
     'baseUrl' => 'https://artisanstatic.netlify.app',
     'site' => [
-        'title' => 'PoGoBand',
-        'description' => 'Pogoband Scrunchies',
+        'title' => 'JoJoBand',
+        'description' => 'Jojoband Scrunchies',
         'image' => 'default-share.png',
     ],
     'owner' => [
-        'name' => 'Pogoband',
+        'name' => 'Jojoband',
         'twitter' => 'pogoband',
     ],
     'services' => [
