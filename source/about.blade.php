@@ -4,6 +4,6 @@
 
 @section('content')
    <small><center>
-   We love and sell PoGo Bands !
+   We love and sell PoGoBands !
    </center> </small>
 @endsection
