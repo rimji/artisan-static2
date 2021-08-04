@@ -20,7 +20,7 @@
     <section>
         <header>
             <nav>
-               <strong><a href="https://www.pogoband.com/">じ Pogoband</a></strong><br>
+               <strong><a href="https://www.pogoband.com/">じ POGOBAND</a></strong><br>
             </nav>
         </header>
 
