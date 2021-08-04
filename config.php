@@ -4,7 +4,7 @@ return [
     'production' => false,
     'baseUrl' => 'https://artisanstatic.netlify.app',
     'site' => [
-        'title' => 'Pogoband',
+        'title' => 'PoGo Band',
         'description' => 'Pogoband Scrunchies',
         'image' => 'default-share.png',
     ],
