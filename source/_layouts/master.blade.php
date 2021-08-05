@@ -20,7 +20,7 @@
     <section>
         <header>
             <nav>
-               <strong>じ <a href="https://www.jojoband.com/">JoJoBand</a></strong><br>
+               <strong>じ <a href="https://www.jojoband.com/">JoJoBands</a></strong><br>
             </nav>
         </header>
 
@@ -32,7 +32,7 @@
 
         <footer>
              <small><center>
-             &copy; 2021 JoJoBand
+             &copy; 2021 JoJoBands
              </center></small>
         </footer>
     </section>
