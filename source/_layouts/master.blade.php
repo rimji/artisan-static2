@@ -32,7 +32,7 @@
 
         <footer>
              <small><center>
-             &copy; 2021 <a href="https://www.rimji.com/">Rimji Retail  
+             &copy; 2021 JoJoBand
              </center></small>
         </footer>
     </section>
