@@ -5,6 +5,6 @@
 @section('content')
 
    <small><center>
-   contact@jojoband.com
+   contact@jojobands.com
    </center> </small>
 @endsection
