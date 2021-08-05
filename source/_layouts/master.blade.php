@@ -20,7 +20,7 @@
     <section>
         <header>
             <nav>
-               <strong>じ <a href="https://www.jojobands.com/">JoJo Bands</a></strong><br>
+               <strong>じ <a href="https://www.jojobands.com/">Jo Jo Bands</a></strong><br>
             </nav>
         </header>
 
