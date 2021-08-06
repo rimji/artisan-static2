@@ -32,7 +32,7 @@
 
         <footer>
              <small><center>
-             &copy; 2021 Cocomeo
+             &copy; 2021 Rimji Retail
              </center></small>
         </footer>
     </section>
