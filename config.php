@@ -4,13 +4,13 @@ return [
     'production' => false,
     'baseUrl' => 'https://artisanstatic.netlify.app',
     'site' => [
-        'title' => 'CoCoMeO',
+        'title' => 'cocomeo',
         'description' => 'Cocomeo Scrunchies',
         'image' => 'default-share.png',
     ],
     'owner' => [
-        'name' => 'CoCoMeO',
-        'twitter' => 'pogoband',
+        'name' => 'cocomeo',
+        'twitter' => 'cocomeoofficial',
     ],
     'services' => [
         'cmsVersion' => '2.10.139',
