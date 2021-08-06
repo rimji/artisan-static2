@@ -32,7 +32,7 @@
 
         <footer>
              <small><center>
-             &copy; 2021 CoCoMeo
+             &copy; 2021 Cocomeo
              </center></small>
         </footer>
     </section>
