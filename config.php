@@ -4,12 +4,12 @@ return [
     'production' => false,
     'baseUrl' => 'https://artisanstatic.netlify.app',
     'site' => [
-        'title' => 'JoJoBands',
-        'description' => 'Jojoband Scrunchies',
+        'title' => 'CoCoMeO',
+        'description' => 'Cocomeo Scrunchies',
         'image' => 'default-share.png',
     ],
     'owner' => [
-        'name' => 'Jojobands',
+        'name' => 'CoCoMeO',
         'twitter' => 'pogoband',
     ],
     'services' => [
