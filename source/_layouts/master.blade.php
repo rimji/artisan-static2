@@ -20,7 +20,7 @@
     <section>
         <header>
             <nav>
-               <strong>じ <a href="https://www.jojobands.com/">JoJoBands</a></strong><br>
+               <strong>じ <a href="https://www.cocomeo.com/">COCOMEO</a></strong><br>
             </nav>
         </header>
 
@@ -32,7 +32,7 @@
 
         <footer>
              <small><center>
-             &copy; 2021 JoJoBands
+             &copy; 2021 Cocomeo
              </center></small>
         </footer>
     </section>
