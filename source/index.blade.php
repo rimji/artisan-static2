@@ -2,6 +2,6 @@
 
 @section('content')
     <center>
-    <small><center><a href="https://www.cocomeo.com/about/">About</a> &nbsp &nbsp <a href="https://www.cocomeo.com/contact/">Contact</a></small>
+    <small><center><a href="https://www.cocomeo.com/about/">About</a> &nbsp &nbsp <a href="https://www.cocomeo.com/contact/">Contact</a> &nbsp &nbsp <a href="https://www.cocomeo.com/contact/">Instagram</a></small>
     </center>
 @endsection
