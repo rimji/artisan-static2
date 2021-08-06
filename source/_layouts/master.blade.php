@@ -20,7 +20,7 @@
     <section>
         <header>
             <nav>
-               <strong>じ <a href="https://www.cocomeo.com/">CoCoMeO</a></strong><br>
+               <strong>じ <a href="https://www.cocomeo.com/">CoCoMEO</a></strong><br>
             </nav>
         </header>
 
