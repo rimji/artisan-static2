@@ -4,7 +4,7 @@ return [
     'production' => false,
     'baseUrl' => 'https://artisanstatic.netlify.app',
     'site' => [
-        'title' => 'cocomeo',
+        'title' => 'Cocomeo',
         'description' => 'Cocomeo Scrunchies',
         'image' => 'default-share.png',
     ],
