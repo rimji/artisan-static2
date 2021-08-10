@@ -20,7 +20,7 @@
     <section>
         <header>
             <nav>
-               <img src="https://user-images.githubusercontent.com/88181976/128623793-2026ef8b-3f36-48fc-948a-6d87be19559a.png" alt="cocomeo" width="50" height="50"><br><strong><a href="https://www.cocomeo.com/">CocoMeo</a></strong><br>
+               <img src="https://user-images.githubusercontent.com/88181976/128623793-2026ef8b-3f36-48fc-948a-6d87be19559a.png" alt="cocomeo" width="50" height="50"><br><strong><a href="https://www.cocomeo.com/">Cocomeo</a></strong><br>
             </nav>
         </header>
 
