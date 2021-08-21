@@ -2,8 +2,8 @@
 
 @section('content')
     <center><small>
-     Scrunchies
-     No hair damage
+     Scrunchies<br>
+     No hair damage<br>
      Made with ❤️ in India
      </small> </center>
 @endsection
