@@ -4,6 +4,6 @@
     <center><small>
      Scrunchies<br>
      No hair damage<br>
-     Made with ❤️ in India
+     Made with ❤️
      </small> </center>
 @endsection
