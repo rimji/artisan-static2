@@ -2,9 +2,9 @@
 
 return [
     'production' => false,
-    'baseUrl' => 'https://artisanstatic.netlify.app',
+    'baseUrl' => 'https://pollki.com',
     'site' => [
-        'title' => 'pollki',
+        'title' => 'Pollki',
         'description' => 'Pollki Scrunchies',
         'image' => 'default-share.png',
     ],
