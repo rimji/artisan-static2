@@ -2,6 +2,6 @@
 
 @section('content')
     <center>
-    <small><center><a href="https://www.cocomeo.com/about/">About</a> &nbsp &nbsp <a href="https://www.cocomeo.com/contact/">Contact</a> &nbsp &nbsp <a href="https://www.instagram.com/cocomeo.official/">Instagram</a> &nbsp &nbsp <a href="https://www.facebook.com/cocomeo.official/">Facebook</a></small>
+    <small><center><a href="https://www.pollki.com/about/">About</a> &nbsp &nbsp <a href="https://www.pollki.com/contact/">Contact</a> &nbsp &nbsp <a href="https://www.instagram.com/pollki/">Instagram</a></small>
     </center>
 @endsection
