@@ -4,12 +4,12 @@ return [
     'production' => false,
     'baseUrl' => 'https://artisanstatic.netlify.app',
     'site' => [
-        'title' => 'Cocomeo',
-        'description' => 'Cocomeo Scrunchies',
+        'title' => 'pollki',
+        'description' => 'Pollki Scrunchies',
         'image' => 'default-share.png',
     ],
     'owner' => [
-        'name' => 'cocomeo',
+        'name' => 'pollki',
         'twitter' => 'cocomeoofficial',
     ],
     'services' => [
