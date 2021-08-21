@@ -20,7 +20,7 @@
     <section>
         <header>
             <nav>
-               <img src="https://user-images.githubusercontent.com/88181976/128623793-2026ef8b-3f36-48fc-948a-6d87be19559a.png" alt="pollki" width="50" height="50"><br><strong><a href="https://www.pollki.com/">Pollki</a></strong><br>
+               <a href="https://www.pollki.com/"><img src="https://user-images.githubusercontent.com/88181976/130317275-d05644f2-78a5-413e-87b6-83b4418942da.png" alt="pollki" width="100" height="52"></a><br>
             </nav>
         </header>
 
