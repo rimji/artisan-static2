@@ -2,7 +2,7 @@
 
 @section('content')
     <center><small>
-     Scrunchies<br>
+     High quality hair scrunchies<br>
      No hair damage<br>
      Made with ❤️
      </small> </center>
