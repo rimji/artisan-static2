@@ -2,7 +2,7 @@
 
 @section('content')
     <center><small>
-     Comfortable and high quality hair scrunchies<br>
-     No hair damage. Made with ❤️
+     Scrunchies<br>
+     No hair damage
      </small> </center>
 @endsection
