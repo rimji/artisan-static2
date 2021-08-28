@@ -4,6 +4,6 @@
 
 @section('content')
    <small><center>
-   We love and sell comfortable and high quality hair scrunchies, made with ❤️.
+   We love and sell comfortable and high quality hair scrunchies. <br>Made with ❤️
    </center> </small>
 @endsection
