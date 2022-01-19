@@ -4,6 +4,15 @@
 @import "~highlight.js/scss/a11y-dark";
 @import "~notyf/notyf.min";
 
+a {
+  color: black;
+  font-family: 'Special Elite', cursive;
+}
+
+body {
+  font-family: 'Special Elite', cursive;
+}
+
 section h1:first-child {
     margin-top: 18px;
 }
