@@ -20,7 +20,7 @@
     <section>
         <header>
             <nav>
-               <a href="https://www.pollki.com/">Pollki</a><br>
+               <a href="https://www.pollki.com/">POLLKI</a><br>
             </nav>
         </header>
 
