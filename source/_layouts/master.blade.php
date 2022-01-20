@@ -19,11 +19,11 @@
 <body>
     <section>
         <header>
-        <small>
+        <small><b>
             <nav>
                <a href="https://www.pollki.com/">POLLKI</a><br>
             </nav>
-        </small>
+       </b></small>
         </header>
 
         <article>
