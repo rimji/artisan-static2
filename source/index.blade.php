@@ -2,6 +2,6 @@
 
 @section('content')
     <center><small>
-     All natural.
+     
      </small> </center>
 @endsection
