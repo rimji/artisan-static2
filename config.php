@@ -4,13 +4,13 @@ return [
     'production' => false,
     'baseUrl' => 'https://pollki.com',
     'site' => [
-        'title' => 'Pollki',
-        'description' => 'Pollki Scrunchies',
+        'title' => 'POLLKI',
+        'description' => 'Pollki',
         'image' => 'default-share.png',
     ],
     'owner' => [
         'name' => 'pollki',
-        'twitter' => 'cocomeoofficial',
+        'twitter' => 'pollkiofficial',
     ],
     'services' => [
         'cmsVersion' => '2.10.139',
