@@ -4,6 +4,6 @@
 
 @section('content')
    <small><center>
-   All natural<br>Made with ❤️
+   Made with ❤️
    </center> </small>
 @endsection
