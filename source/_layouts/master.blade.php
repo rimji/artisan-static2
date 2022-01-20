@@ -32,7 +32,7 @@
 
         <footer>
              <small><center>
-             <a href="https://www.pollki.com/about/">About</a> &nbsp &nbsp <a href="https://www.pollki.com/contact/">Contact</a> &nbsp &nbsp <a href="https://www.instagram.com/pollki/">Instagram</a><br>
+             <a href="https://www.pollki.com/contact/">Contact</a> &nbsp &nbsp <a href="https://www.instagram.com/pollki/">Instagram</a><br>
              &copy; 2021 POLLKI
              </center></small>
         </footer>
