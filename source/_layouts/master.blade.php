@@ -33,7 +33,7 @@
         <footer>
              <small><center>
              <a href="https://www.pollki.com/contact/">Contact</a> &nbsp &nbsp <a href="https://www.instagram.com/pollki/">Instagram</a><br>
-             &copy; POLLKI
+             &copy; Pollki
              </center></small>
         </footer>
     </section>
