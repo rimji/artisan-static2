@@ -2,7 +2,6 @@
 
 @section('content')
     <center><small>
-     Scrunchies<br>
-     No hair damage
+     All natural.
      </small> </center>
 @endsection
