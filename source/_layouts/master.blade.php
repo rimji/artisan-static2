@@ -23,7 +23,7 @@
             <nav>
                <a href="https://www.pollki.com/">POLLKI</a><br>
             </nav>
-        <small>
+        </small>
         </header>
 
         <article>
