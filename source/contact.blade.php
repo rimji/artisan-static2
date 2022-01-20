@@ -5,6 +5,6 @@
 @section('content')
 
    <small><center>
-   customercare@pollki.com
+   contact@pollki.com
    </center> </small>
 @endsection
