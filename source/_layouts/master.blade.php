@@ -34,7 +34,7 @@
 
         <footer>
              <small><center>
-             <a href="https://www.pollki.com/contact/">Contact</a> &nbsp &nbsp <a href="https://www.instagram.com/pollki/">Instagram</a><br>
+             <a href="https://www.pollki.com/contact/">contact us</a> &nbsp &nbsp <a href="https://www.instagram.com/pollki/">instagram</a><br>
              &copy; Pollki
              </center></small>
         </footer>
