@@ -21,7 +21,7 @@
         <header>
         <b>
             <nav>
-               <a href="https://www.pollki.com/">POLLKI<sup>&reg;</sup></a><br>
+               <a href="https://www.pollki.com/">POLLKI</a><sup>&reg;</sup><br>
             </nav>
        </b>
         </header>
