@@ -5,7 +5,7 @@ return [
     'baseUrl' => 'https://pollki.com',
     'site' => [
         'title' => 'POLLKI',
-        'description' => 'Pollki',
+        'description' => 'Pollki Hair Accessories',
         'image' => 'default-share.png',
     ],
     'owner' => [
