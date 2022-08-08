@@ -1,21 +1,22 @@
 // Tacit - CSS Framework for Dummies, Without Classes
 @import url('https://unpkg.com/tacit-css@1.5.5/dist/tacit-css-1.5.5.min.css');
-
-@import url('https://fonts.googleapis.com/css2?family=Special+Elite&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Courier+Prime&display=swap');
 @import "~highlight.js/scss/a11y-dark";
 @import "~notyf/notyf.min";
 
 a {
   color: black;
-  font-family: 'Special Elite', cursive;
+  font-family: 'Courier Prime', monospace;
 }
 
 body {
-  font-family: 'Special Elite', cursive;
+  font-family: 'Courier Prime', monospace;
 }
 
 section h1:first-child {
-    margin-top: 18px;
+    margin-top: 10px;
+    font-size: 21px;
 }
 
 button[data-sharer] {
