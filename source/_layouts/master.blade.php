@@ -21,7 +21,7 @@
         <header>
         <b>
             <nav>
-               <a href="https://www.pollki.com/">Pollki</a><br>
+               <a href="https://www.pollki.com/">POLLKI</a><br>
             </nav>
        </b>
         </header>
@@ -35,7 +35,7 @@
         <footer>
              <small><center>
              <a href="https://www.instagram.com/pollki/">instagram</a> &nbsp &nbsp <a href="https://www.pollki.com/contact/">contact us</a><br>
-             &copy; Pollki
+             &copy; POLLKI
              </center></small>
         </footer>
     </section>
