@@ -4,7 +4,7 @@ return [
     'production' => false,
     'baseUrl' => 'https://pollki.com',
     'site' => [
-        'title' => 'POLLKI',
+        'title' => 'POLLKI Hair Accessories',
         'description' => 'Shop for latest hair accessories',
         'image' => 'default-share.png',
     ],
